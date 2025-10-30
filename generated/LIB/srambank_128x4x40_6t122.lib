@@ -99,7 +99,7 @@ library (srambank_128x4x40_6t122) {
     index_2 ("0.00072, 0.00144, 0.00288, 0.00576, 0.01152, 0.02304, 0.04608");
   }
   cell (srambank_128x4x40_6t122) {
-    area : 0;
+    area : 829.44;
     cell_leakage_power : 0;
     dont_use : true;
     interface_timing : true;
