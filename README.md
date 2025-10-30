@@ -1,5 +1,8 @@
 See [README.md](https://github.com/The-OpenROAD-Project/asap7)
 
+**2025/10/29**
+- Remove the `setup_falling` constraint from the banksel pin
+
 **2025/10/20**
 - Add the macro area computed from the LEF file to the LIB file
 
