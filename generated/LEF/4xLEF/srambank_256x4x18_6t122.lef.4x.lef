@@ -901,20 +901,6 @@ MACRO srambank_256x4x18_6t122
         RECT 61.796 107.66 61.868 107.756 ; 
     END 
   END dataout[17] 
-  PIN dataout[18] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[18] 
-  PIN dataout[19] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[19] 
   PIN dataout[1] 
     DIRECTION OUTPUT ; 
     USE SIGNAL ; 
@@ -927,76 +913,6 @@ MACRO srambank_256x4x18_6t122
         RECT 61.796 6.032 61.868 6.128 ; 
     END 
   END dataout[1] 
-  PIN dataout[20] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[20] 
-  PIN dataout[21] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[21] 
-  PIN dataout[22] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[22] 
-  PIN dataout[23] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[23] 
-  PIN dataout[24] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[24] 
-  PIN dataout[25] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[25] 
-  PIN dataout[26] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[26] 
-  PIN dataout[27] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[27] 
-  PIN dataout[28] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[28] 
-  PIN dataout[29] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[29] 
   PIN dataout[2] 
     DIRECTION OUTPUT ; 
     USE SIGNAL ; 
@@ -1009,76 +925,6 @@ MACRO srambank_256x4x18_6t122
         RECT 61.796 10.352 61.868 10.448 ; 
     END 
   END dataout[2] 
-  PIN dataout[30] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[30] 
-  PIN dataout[31] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[31] 
-  PIN dataout[32] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[32] 
-  PIN dataout[33] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[33] 
-  PIN dataout[34] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[34] 
-  PIN dataout[35] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[35] 
-  PIN dataout[36] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[36] 
-  PIN dataout[37] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[37] 
-  PIN dataout[38] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[38] 
-  PIN dataout[39] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[39] 
   PIN dataout[3] 
     DIRECTION OUTPUT ; 
     USE SIGNAL ; 
@@ -1091,76 +937,6 @@ MACRO srambank_256x4x18_6t122
         RECT 61.796 14.672 61.868 14.768 ; 
     END 
   END dataout[3] 
-  PIN dataout[40] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[40] 
-  PIN dataout[41] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[41] 
-  PIN dataout[42] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[42] 
-  PIN dataout[43] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[43] 
-  PIN dataout[44] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[44] 
-  PIN dataout[45] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[45] 
-  PIN dataout[46] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[46] 
-  PIN dataout[47] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[47] 
-  PIN dataout[48] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[48] 
-  PIN dataout[49] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[49] 
   PIN dataout[4] 
     DIRECTION OUTPUT ; 
     USE SIGNAL ; 
@@ -1173,76 +949,6 @@ MACRO srambank_256x4x18_6t122
         RECT 61.796 18.992 61.868 19.088 ; 
     END 
   END dataout[4] 
-  PIN dataout[50] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[50] 
-  PIN dataout[51] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[51] 
-  PIN dataout[52] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[52] 
-  PIN dataout[53] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[53] 
-  PIN dataout[54] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[54] 
-  PIN dataout[55] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[55] 
-  PIN dataout[56] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[56] 
-  PIN dataout[57] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[57] 
-  PIN dataout[58] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[58] 
-  PIN dataout[59] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[59] 
   PIN dataout[5] 
     DIRECTION OUTPUT ; 
     USE SIGNAL ; 
@@ -1255,34 +961,6 @@ MACRO srambank_256x4x18_6t122
         RECT 61.796 23.312 61.868 23.408 ; 
     END 
   END dataout[5] 
-  PIN dataout[60] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[60] 
-  PIN dataout[61] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[61] 
-  PIN dataout[62] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[62] 
-  PIN dataout[63] 
-    DIRECTION OUTPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END dataout[63] 
   PIN dataout[6] 
     DIRECTION OUTPUT ; 
     USE SIGNAL ; 
@@ -1439,20 +1117,6 @@ MACRO srambank_256x4x18_6t122
         RECT 60.896 107.276 60.968 107.372 ; 
     END 
   END wd[17] 
-  PIN wd[18] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[18] 
-  PIN wd[19] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[19] 
   PIN wd[1] 
     DIRECTION INPUT ; 
     USE SIGNAL ; 
@@ -1465,76 +1129,6 @@ MACRO srambank_256x4x18_6t122
         RECT 60.896 5.648 60.968 5.744 ; 
     END 
   END wd[1] 
-  PIN wd[20] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[20] 
-  PIN wd[21] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[21] 
-  PIN wd[22] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[22] 
-  PIN wd[23] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[23] 
-  PIN wd[24] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[24] 
-  PIN wd[25] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[25] 
-  PIN wd[26] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[26] 
-  PIN wd[27] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[27] 
-  PIN wd[28] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[28] 
-  PIN wd[29] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[29] 
   PIN wd[2] 
     DIRECTION INPUT ; 
     USE SIGNAL ; 
@@ -1547,76 +1141,6 @@ MACRO srambank_256x4x18_6t122
         RECT 60.896 9.968 60.968 10.064 ; 
     END 
   END wd[2] 
-  PIN wd[30] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[30] 
-  PIN wd[31] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[31] 
-  PIN wd[32] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[32] 
-  PIN wd[33] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[33] 
-  PIN wd[34] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[34] 
-  PIN wd[35] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[35] 
-  PIN wd[36] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[36] 
-  PIN wd[37] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[37] 
-  PIN wd[38] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[38] 
-  PIN wd[39] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[39] 
   PIN wd[3] 
     DIRECTION INPUT ; 
     USE SIGNAL ; 
@@ -1629,76 +1153,6 @@ MACRO srambank_256x4x18_6t122
         RECT 60.896 14.288 60.968 14.384 ; 
     END 
   END wd[3] 
-  PIN wd[40] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[40] 
-  PIN wd[41] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[41] 
-  PIN wd[42] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[42] 
-  PIN wd[43] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[43] 
-  PIN wd[44] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[44] 
-  PIN wd[45] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[45] 
-  PIN wd[46] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[46] 
-  PIN wd[47] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[47] 
-  PIN wd[48] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[48] 
-  PIN wd[49] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[49] 
   PIN wd[4] 
     DIRECTION INPUT ; 
     USE SIGNAL ; 
@@ -1711,76 +1165,6 @@ MACRO srambank_256x4x18_6t122
         RECT 60.896 18.608 60.968 18.704 ; 
     END 
   END wd[4] 
-  PIN wd[50] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[50] 
-  PIN wd[51] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[51] 
-  PIN wd[52] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[52] 
-  PIN wd[53] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[53] 
-  PIN wd[54] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[54] 
-  PIN wd[55] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[55] 
-  PIN wd[56] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[56] 
-  PIN wd[57] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[57] 
-  PIN wd[58] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[58] 
-  PIN wd[59] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[59] 
   PIN wd[5] 
     DIRECTION INPUT ; 
     USE SIGNAL ; 
@@ -1793,34 +1177,6 @@ MACRO srambank_256x4x18_6t122
         RECT 60.896 22.928 60.968 23.024 ; 
     END 
   END wd[5] 
-  PIN wd[60] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[60] 
-  PIN wd[61] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[61] 
-  PIN wd[62] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[62] 
-  PIN wd[63] 
-    DIRECTION INPUT ; 
-    USE SIGNAL ; 
-    PORT 
-      LAYER M3 ; 
-    END 
-  END wd[63] 
   PIN wd[6] 
     DIRECTION INPUT ; 
     USE SIGNAL ; 
